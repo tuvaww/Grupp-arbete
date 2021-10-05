@@ -9,6 +9,7 @@
   "author": "Grupp 12",
   "license": "ISC",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.0.0"
   }
 }
