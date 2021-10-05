@@ -1,0 +1,14 @@
+{
+  "name": "grupp-arbete",
+  "version": "4.0.2",
+  "description": "Grupp arbete",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupp 12",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
